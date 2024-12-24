@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c53b76ab42aef174f9be26d2956aaedd, type: 3}
+  m_Name: Machine Gun
+  m_EditorClassIdentifier: 
+  WeaponPrefab: {fileID: 4776592767977909050, guid: f08e20ede63225c4e8d20d7c1793b5eb, type: 3}
+  Damage: 1
+  FireRate: 0.07
+  HitSfxPrefab: {fileID: 318059522167835558, guid: 828f8525a7f6b744aae9c970cf653be0, type: 3}
+  IsAutomatic: 1
+  CanZoom: 0
+  ZoomAmount: 10
+  ZoomRotationSpeed: 0.3
+  MagazineSize: 48
