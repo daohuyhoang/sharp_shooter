@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Characters>
+    <Character>
+        <Name>John</Name>
+        <Class>Warrior</Class>
+        <Level>6</Level>
+    </Character>
+    <Character>
+        <Name>Emily</Name>
+        <Class>Archer</Class>
+        <Level>7</Level>
+    </Character>
+</Characters>
